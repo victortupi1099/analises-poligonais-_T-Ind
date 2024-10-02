@@ -1,0 +1,14 @@
+
+
+
+cabem as seguintes resoluções:
+
+separação de povos em dados de terras aos quais dividem mais de um povo a mesma area com atribuição multipla da area aos povos referidos 
+aprimoramento da visualização dos dados da area com interface exatta. trilha 3.
+aprimoramento dos requisitos para a amostragem de recursos especificos.
+
+a amostragem de mapas de area indigena em mapas nacionais
+
+a possibilidade exibição de povos por regiões do brasil
+
+a possibilidade de exibição de povos proximos ao analisado
